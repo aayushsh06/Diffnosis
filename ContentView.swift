@@ -350,7 +350,7 @@ class OpenAIService {
         }
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
-        request.addValue("Bearer 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", forHTTPHeaderField: "Authorization")
+        request.addValue("Bearer API KEY HAS BEEN REMOVED", forHTTPHeaderField: "Authorization")
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
         let body: [String: Any] = [
             "model": "llama-3.2-11b-vision-preview",
