@@ -281,7 +281,7 @@ class OpenAIService {
 
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
-        request.addValue("Bearer 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", forHTTPHeaderField: "Authorization")
+        request.addValue("Bearer YOUR_API_KEY", forHTTPHeaderField: "Authorization")
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
 
         let body: [String: Any] = [
