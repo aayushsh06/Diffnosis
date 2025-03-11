@@ -1,5 +1,8 @@
 # Diffnosis
 
+![image](https://github.com/user-attachments/assets/bfd40673-cfd6-47e0-9622-88f8d2395417)
+
+
 Diffnosis is a virtual health consultant iOS application that assists users in performing differential diagnoses based on their symptoms, medical history, and travel risks.
 
 ## Features
